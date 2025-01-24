@@ -1,4 +1,4 @@
-Se debe crear el entorno con el comando virtualenv venv e instalar las dependencias con pip install -r require.txt
+Se debe crear el entorno con el comando virtualenv venv e instalar las dependencias con pip install -r requirements.txt
 
 El aplicativo analiza constantemente las teclas presionadas en el equipo, mostrando paso a paso las teclas presionadas. Además guarda los screenshots hechos con el botón Impr Pant.
 
